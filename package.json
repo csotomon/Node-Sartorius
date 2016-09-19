@@ -1,7 +1,7 @@
 {
   "name": "Control-Pesaje",
   "version": "1.0.0",
-  "description": "pruebas",
+  "description": "Conexion por serial a una balanza Sartorius",
   "main": "index.js",
   "scripts": {
 	"start": "node index.js",
