@@ -24,7 +24,7 @@ port.on('open', function() {
 
 // Mensaje de error al abrir el puerto
 port.on('error', function(err) {
-  console.log('Error al abrirl el puerto serial: ', err.message);
+  console.log('Error al abrir el puerto serial: ', err.message);
 })
 
 //Setea los resultados a tipo json
